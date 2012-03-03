@@ -1,0 +1,9 @@
+.project
+.classpath
+.buildpath
+.settings
+default.properties
+libs/*facebook*
+libs/*fb*
+js/jquery-ui-*
+css/redmond*
